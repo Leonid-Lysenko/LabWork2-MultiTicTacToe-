@@ -1,0 +1,4 @@
+<map id="GameRules::checkDraw" name="GameRules::checkDraw">
+<area shape="rect" id="node1" title="Checks if the game ended in a draw." alt="" coords="108,5,285,32"/>
+<area shape="rect" id="node2" href="$test__rules_8cpp.html#a4a6be028cd778f069027f1d92d2685cf" title="Test draw condition detection when the board is full with no winner." alt="" coords="5,5,60,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="HumanPlayer::get3DMove" name="HumanPlayer::get3DMove">
+<area shape="rect" id="node1" title="Gets the player&#39;s move in 3D mode." alt="" coords="5,31,199,57"/>
+<area shape="rect" id="node2" href="$classBoard3D.html#ac7012b172bf0ab890582941596bd519e" title="Checks if a move is valid on a specific level." alt="" coords="247,5,412,32"/>
+<area shape="rect" id="node3" href="$classPlayer.html#a226a4c11d51c5037723f880b72144c3a" title="Checks if the player requested to exit the game." alt="" coords="260,56,399,83"/>
+</map>

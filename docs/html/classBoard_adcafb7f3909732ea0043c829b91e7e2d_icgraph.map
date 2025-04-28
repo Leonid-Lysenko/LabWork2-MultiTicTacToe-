@@ -1,0 +1,13 @@
+<map id="Board::setCell" name="Board::setCell">
+<area shape="rect" id="node1" title="Sets the cell value at the specified position." alt="" coords="715,99,828,126"/>
+<area shape="rect" id="node2" href="$classHardAIDifficulty.html#ab6ccc0f386c80895c18b196417c1e21b" title="Calculates the optimal move using the Minimax algorithm." alt="" coords="237,5,428,47"/>
+<area shape="rect" id="node3" href="$classMediumAIDifficulty.html#a46fede497d81884257211231502886f6" title="Finds a winning move for the given marker if available." alt="" coords="498,92,645,133"/>
+<area shape="rect" id="node5" href="$classHardAIDifficulty.html#a878b5061c2b5d7397f2bfb33b358a97a" title="Minimax algorithm implementation." alt="" coords="476,41,667,67"/>
+<area shape="rect" id="node6" href="$classGame.html#ab1e9b447334f6ec64ad91df3e60574f1" title="Processes a single turn for a player in classic mode." alt="" coords="478,158,665,185"/>
+<area shape="rect" id="node11" href="$test__ai_8cpp.html#a0750ba58bf41ace13f9f215bad942a4d" title="Test that Medium AI blocks the opponent&#39;s immediate winning move." alt="" coords="544,209,599,235"/>
+<area shape="rect" id="node4" href="$classMediumAIDifficulty.html#a1e2b191a320ee5315849174ca28330fd" title="Calculates the best move for the AI." alt="" coords="255,92,410,133"/>
+<area shape="rect" id="node7" href="$classGame.html#a3d9b98f7c4a96ecf578f75b96c9f0e90" title="Starts the game loop." alt="" coords="283,158,382,185"/>
+<area shape="rect" id="node8" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="Main function &#45; entry point of the application." alt="" coords="70,99,125,126"/>
+<area shape="rect" id="node9" href="$classIntegrationTest.html#acbc0b497e7b1195c0f595813021a3a7a" title="Simulates a game with specified human moves against controlled AI." alt="" coords="5,151,189,192"/>
+<area shape="rect" id="node10" href="$test__3d__game_8cpp.html#a269fa077455455cef649c722293e9289" title="Test case for winning the 3D game by completing a space diagonal." alt="" coords="70,217,125,243"/>
+</map>

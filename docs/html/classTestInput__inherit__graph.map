@@ -1,0 +1,4 @@
+<map id="TestInput" name="TestInput">
+<area shape="rect" id="node1" title="Mock input handler to simulate human moves for integration testing." alt="" coords="18,80,99,107"/>
+<area shape="rect" id="node2" href="$classInputHandler.html" title="Interface for input handling." alt="" coords="5,5,112,32"/>
+</map>

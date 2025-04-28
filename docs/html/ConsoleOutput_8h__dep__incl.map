@@ -1,0 +1,10 @@
+<map id="include/ConsoleOutput.h" name="include/ConsoleOutput.h">
+<area shape="rect" id="node1" title="Header file for the ConsoleOutput class." alt="" coords="517,5,699,32"/>
+<area shape="rect" id="node2" href="$ConsoleOutput_8cpp.html" title="Implementation of the ConsoleOutput class for displaying game information in the console." alt="" coords="5,87,173,114"/>
+<area shape="rect" id="node3" href="$main_8cpp.html" title="Main application file for Tic&#45;Tac&#45;Toe game." alt="" coords="198,87,303,114"/>
+<area shape="rect" id="node4" href="$test__3d__game_8cpp.html" title="Unit tests for 3D Tic&#45;Tac&#45;Toe game mode including win scenarios and early exit handling." alt="" coords="327,87,505,114"/>
+<area shape="rect" id="node5" href="$test__3d__human__vs__human_8cpp.html" title="Unit tests for 3D Tic&#45;Tac&#45;Toe mode with two human players." alt="" coords="529,80,687,121"/>
+<area shape="rect" id="node6" href="$test__classic__human__vs__human_8cpp.html" title="Unit tests for classic 2D Tic&#45;Tac&#45;Toe mode with two human players." alt="" coords="711,80,886,121"/>
+<area shape="rect" id="node7" href="$test__game_8cpp.html" title="Unit tests for the Game class in classic mode." alt="" coords="911,87,1065,114"/>
+<area shape="rect" id="node8" href="$test__integration_8cpp.html" title="Reliable integration tests with controlled AI behavior." alt="" coords="1090,87,1278,114"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Board::isEmpty" name="Board::isEmpty">
+<area shape="rect" id="node1" title="Checks if the board is completely empty." alt="" coords="108,5,229,32"/>
+<area shape="rect" id="node2" href="$test__board_8cpp.html#afe2453b59fb394eca0f27878853ffc97" title="Test that a newly initialized board is empty and not full." alt="" coords="5,5,60,32"/>
+</map>

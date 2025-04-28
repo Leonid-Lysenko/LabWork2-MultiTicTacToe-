@@ -1,0 +1,8 @@
+<map id="include/MediumAIDifficulty.h" name="include/MediumAIDifficulty.h">
+<area shape="rect" id="node1" title="Header file for the MediumAIDifficulty class." alt="" coords="183,5,391,32"/>
+<area shape="rect" id="node2" href="$HardAIDifficulty_8h.html" title="Header file for the HardAIDifficulty class." alt="" coords="129,80,315,107"/>
+<area shape="rect" id="node4" href="$main_8cpp.html" title="Main application file for Tic&#45;Tac&#45;Toe game." alt="" coords="5,155,111,181"/>
+<area shape="rect" id="node5" href="$test__ai_8cpp.html" title="Unit tests for AI player behaviors across different difficulty levels." alt="" coords="333,155,463,181"/>
+<area shape="rect" id="node6" href="$MediumAIDifficulty_8cpp.html" title="Implementation of the MediumAIDifficulty class with basic strategic AI." alt="" coords="390,80,585,107"/>
+<area shape="rect" id="node3" href="$HardAIDifficulty_8cpp.html" title="Implementation of the HardAIDifficulty class using the Minimax algorithm." alt="" coords="135,155,309,181"/>
+</map>

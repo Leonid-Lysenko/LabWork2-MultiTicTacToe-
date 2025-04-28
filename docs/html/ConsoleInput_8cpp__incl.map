@@ -1,0 +1,12 @@
+<map id="src/ConsoleInput.cpp" name="src/ConsoleInput.cpp">
+<area shape="rect" id="node1" title="Implementation of the ConsoleInput class for handling user input via console." alt="" coords="290,5,448,32"/>
+<area shape="rect" id="node2" href="$ConsoleInput_8h.html" title="Header file for the ConsoleInput class." alt="" coords="152,80,271,107"/>
+<area shape="rect" id="node7" title=" " alt="" coords="312,229,370,256"/>
+<area shape="rect" id="node9" title=" " alt="" coords="368,80,448,107"/>
+<area shape="rect" id="node10" title=" " alt="" coords="472,80,546,107"/>
+<area shape="rect" id="node3" href="$InputHandler_8h.html" title="Header file for the InputHandler interface." alt="" coords="14,155,132,181"/>
+<area shape="rect" id="node6" href="$Validator_8h.html" title="Header file for the Validator class." alt="" coords="166,155,257,181"/>
+<area shape="rect" id="node4" href="$Position_8h.html" title="Header file for the Position class." alt="" coords="30,304,116,331"/>
+<area shape="rect" id="node5" href="$Position3D_8h.html" title="Header file for the Position3D structure." alt="" coords="21,229,125,256"/>
+<area shape="rect" id="node8" title=" " alt="" coords="200,229,287,256"/>
+</map>

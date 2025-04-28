@@ -1,0 +1,5 @@
+<map id="AIPlayer::shouldExit" name="AIPlayer::shouldExit">
+<area shape="rect" id="node1" title="Indicates whether the AI player should exit the game." alt="" coords="297,5,449,32"/>
+<area shape="rect" id="node2" href="$classAIPlayer.html#a2824bfae35a89f9369444e1ea7d627fc" title="Gets the next move from the AI (classic mode)." alt="" coords="108,5,249,32"/>
+<area shape="rect" id="node3" href="$test__ai_8cpp.html#af47d2384ade8be395f18a160132467eb" title="Test that Easy AI selects a valid empty cell on the board." alt="" coords="5,5,60,32"/>
+</map>

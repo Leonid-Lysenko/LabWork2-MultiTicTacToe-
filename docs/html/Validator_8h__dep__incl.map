@@ -1,0 +1,15 @@
+<map id="include/Validator.h" name="include/Validator.h">
+<area shape="rect" id="node1" title="Header file for the Validator class." alt="" coords="806,5,949,32"/>
+<area shape="rect" id="node2" href="$ConsoleInput_8h.html" title="Header file for the ConsoleInput class." alt="" coords="509,80,680,107"/>
+<area shape="rect" id="node10" href="$HumanPlayer_8h.html" title="Header file for the HumanPlayer class." alt="" coords="705,80,877,107"/>
+<area shape="rect" id="node12" href="$Validator_8cpp.html" title="Implementation of the Validator class for validating user input." alt="" coords="901,80,1030,107"/>
+<area shape="rect" id="node13" href="$test__validator_8cpp.html" title="Unit tests for the Validator class." alt="" coords="1054,80,1229,107"/>
+<area shape="rect" id="node3" href="$ConsoleInput_8cpp.html" title="Implementation of the ConsoleInput class for handling user input via console." alt="" coords="5,162,163,189"/>
+<area shape="rect" id="node4" href="$main_8cpp.html" title="Main application file for Tic&#45;Tac&#45;Toe game." alt="" coords="187,162,293,189"/>
+<area shape="rect" id="node5" href="$test__3d__game_8cpp.html" title="Unit tests for 3D Tic&#45;Tac&#45;Toe game mode including win scenarios and early exit handling." alt="" coords="317,162,494,189"/>
+<area shape="rect" id="node6" href="$test__3d__human__vs__human_8cpp.html" title="Unit tests for 3D Tic&#45;Tac&#45;Toe mode with two human players." alt="" coords="518,155,677,196"/>
+<area shape="rect" id="node7" href="$test__classic__human__vs__human_8cpp.html" title="Unit tests for classic 2D Tic&#45;Tac&#45;Toe mode with two human players." alt="" coords="701,155,875,196"/>
+<area shape="rect" id="node8" href="$test__game_8cpp.html" title="Unit tests for the Game class in classic mode." alt="" coords="900,162,1055,189"/>
+<area shape="rect" id="node9" href="$test__integration_8cpp.html" title="Reliable integration tests with controlled AI behavior." alt="" coords="1079,162,1267,189"/>
+<area shape="rect" id="node11" href="$HumanPlayer_8cpp.html" title="Implementation of the HumanPlayer class handling human input." alt="" coords="1291,162,1450,189"/>
+</map>

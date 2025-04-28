@@ -1,0 +1,10 @@
+<map id="Game" name="Game">
+<area shape="rect" id="node1" title="The main game class managing the game flow." alt="" coords="187,407,249,433"/>
+<area shape="rect" id="node2" href="$classGameRules.html" title="Class containing the game rules logic." alt="" coords="5,303,103,329"/>
+<area shape="rect" id="node3" href="$classBoard.html" title="Represents the Tic&#45;Tac&#45;Toe game board." alt="" coords="132,109,192,136"/>
+<area shape="rect" id="node7" title=" " alt="" coords="178,199,319,240"/>
+<area shape="rect" id="node4" title=" " alt="" coords="75,5,249,47"/>
+<area shape="rect" id="node5" title=" " alt="" coords="281,303,472,329"/>
+<area shape="rect" id="node6" href="$classBoard3D.html" title="Represents a 3D Tic&#45;Tac&#45;Toe game board with multiple levels." alt="" coords="179,303,257,329"/>
+<area shape="rect" id="node8" title=" " alt="" coords="496,303,740,329"/>
+</map>

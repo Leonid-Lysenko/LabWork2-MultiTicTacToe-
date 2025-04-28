@@ -1,0 +1,17 @@
+<map id="include/Player.h" name="include/Player.h">
+<area shape="rect" id="node1" title="Header file for the Player base class." alt="" coords="134,5,259,32"/>
+<area shape="rect" id="node2" href="$Move_8h.html" title="Header file for the Move class." alt="" coords="5,155,76,181"/>
+<area shape="rect" id="node5" href="$Board_8h.html" title="Represents the game board for Tic&#45;Tac&#45;Toe." alt="" coords="273,229,345,256"/>
+<area shape="rect" id="node8" href="$Board3D_8h.html" title="Header file for the Board3D class." alt="" coords="399,80,490,107"/>
+<area shape="rect" id="node14" href="$Position3D_8h.html" title="Header file for the Position3D structure." alt="" coords="101,155,205,181"/>
+<area shape="rect" id="node15" href="$InputHandler_8h.html" title="Header file for the InputHandler interface." alt="" coords="138,80,255,107"/>
+<area shape="rect" id="node3" href="$Position_8h.html" title="Header file for the Position class." alt="" coords="109,229,196,256"/>
+<area shape="rect" id="node4" href="$Cell_8h.html" title="Header file for Cell enumeration." alt="" coords="119,304,178,331"/>
+<area shape="rect" id="node6" title=" " alt="" coords="231,304,293,331"/>
+<area shape="rect" id="node7" title=" " alt="" coords="318,304,393,331"/>
+<area shape="rect" id="node9" href="$OutputHandler_8h.html" title="Header file for the OutputHandler interface." alt="" coords="381,155,509,181"/>
+<area shape="rect" id="node12" title=" " alt="" coords="533,155,589,181"/>
+<area shape="rect" id="node13" title=" " alt="" coords="613,155,690,181"/>
+<area shape="rect" id="node10" title=" " alt="" coords="399,229,458,256"/>
+<area shape="rect" id="node11" href="$GameState_8h.html" title="Header file for the GameState enumeration." alt="" coords="482,229,589,256"/>
+</map>

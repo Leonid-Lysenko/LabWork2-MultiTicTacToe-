@@ -1,0 +1,10 @@
+<map id="HardAIDifficulty::calculateBestMove" name="HardAIDifficulty::calculateBestMove">
+<area shape="rect" id="node1" title="Calculates the optimal move using the Minimax algorithm." alt="" coords="5,49,196,90"/>
+<area shape="rect" id="node2" href="$classBoard.html#ab60a1f5210c03763122808df3f36e928" title="Returns the cell value at the specified position." alt="" coords="509,5,624,32"/>
+<area shape="rect" id="node4" href="$classHardAIDifficulty.html#a878b5061c2b5d7397f2bfb33b358a97a" title="Minimax algorithm implementation." alt="" coords="244,107,435,133"/>
+<area shape="rect" id="node8" href="$classBoard.html#adcafb7f3909732ea0043c829b91e7e2d" title="Sets the cell value at the specified position." alt="" coords="510,56,623,83"/>
+<area shape="rect" id="node3" href="$classBoard.html#a73d6e27fbfbbf73db8c3a532f2d42171" title="Checks if the given position is valid on the board." alt="" coords="699,31,861,57"/>
+<area shape="rect" id="node5" href="$classGameRules.html#aac69246a5d92996b2c43676f795d58d9" title="Checks if the specified player has won." alt="" coords="483,107,651,133"/>
+<area shape="rect" id="node7" href="$classBoard.html#aea604144c08c8442221b4a619d47db94" title="Checks if the board is completely filled." alt="" coords="515,157,618,184"/>
+<area shape="rect" id="node6" href="$classBoard.html#a16cdb8eaec4202fe7df18d6ca23a3f1d" title="Returns the entire grid as a 2D vector." alt="" coords="722,107,838,133"/>
+</map>

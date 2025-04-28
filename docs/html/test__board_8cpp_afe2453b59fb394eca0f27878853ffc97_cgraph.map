@@ -1,0 +1,7 @@
+<map id="TEST" name="TEST">
+<area shape="rect" id="node1" title="Test that a newly initialized board is empty and not full." alt="" coords="5,56,60,83"/>
+<area shape="rect" id="node2" href="$classBoard.html#ab60a1f5210c03763122808df3f36e928" title="Returns the cell value at the specified position." alt="" coords="111,5,226,32"/>
+<area shape="rect" id="node4" href="$classBoard.html#a7fefda47004c265c751588658e668bb5" title="Checks if the board is completely empty." alt="" coords="108,56,229,83"/>
+<area shape="rect" id="node5" href="$classBoard.html#aea604144c08c8442221b4a619d47db94" title="Checks if the board is completely filled." alt="" coords="117,107,220,133"/>
+<area shape="rect" id="node3" href="$classBoard.html#a73d6e27fbfbbf73db8c3a532f2d42171" title="Checks if the given position is valid on the board." alt="" coords="277,5,440,32"/>
+</map>

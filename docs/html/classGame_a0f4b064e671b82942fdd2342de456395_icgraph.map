@@ -1,0 +1,5 @@
+<map id="Game::getState" name="Game::getState">
+<area shape="rect" id="node1" title="Returns the current game state." alt="" coords="237,42,361,69"/>
+<area shape="rect" id="node2" href="$classIntegrationTest.html#acbc0b497e7b1195c0f595813021a3a7a" title="Simulates a game with specified human moves against controlled AI." alt="" coords="5,5,189,47"/>
+<area shape="rect" id="node3" href="$test__3d__game_8cpp.html#a269fa077455455cef649c722293e9289" title="Test case for winning the 3D game by completing a space diagonal." alt="" coords="70,71,125,98"/>
+</map>

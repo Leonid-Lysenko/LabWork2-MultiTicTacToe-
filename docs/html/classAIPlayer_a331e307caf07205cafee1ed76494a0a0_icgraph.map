@@ -1,0 +1,4 @@
+<map id="AIPlayer::findWinningMove" name="AIPlayer::findWinningMove">
+<area shape="rect" id="node1" title="Finds a winning move in 3D space." alt="" coords="212,5,409,32"/>
+<area shape="rect" id="node2" href="$classAIPlayer.html#a4f320821c2e421656da6769248aff226" title="Gets the next move from the AI (3D mode)." alt="" coords="5,5,164,32"/>
+</map>

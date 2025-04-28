@@ -1,0 +1,9 @@
+<map id="include/OutputHandler.h" name="include/OutputHandler.h">
+<area shape="rect" id="node1" title="Header file for the OutputHandler interface." alt="" coords="35,5,213,32"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,80,64,107"/>
+<area shape="rect" id="node3" href="$Board_8h.html" title="Represents the game board for Tic&#45;Tac&#45;Toe." alt="" coords="88,80,160,107"/>
+<area shape="rect" id="node7" href="$GameState_8h.html" title="Header file for the GameState enumeration." alt="" coords="184,80,291,107"/>
+<area shape="rect" id="node4" href="$Cell_8h.html" title="Header file for Cell enumeration." alt="" coords="9,155,68,181"/>
+<area shape="rect" id="node5" title=" " alt="" coords="93,155,155,181"/>
+<area shape="rect" id="node6" title=" " alt="" coords="180,155,255,181"/>
+</map>

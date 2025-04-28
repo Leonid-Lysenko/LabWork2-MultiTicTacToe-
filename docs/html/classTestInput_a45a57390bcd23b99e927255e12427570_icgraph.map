@@ -1,0 +1,4 @@
+<map id="TestInput::parseInput" name="TestInput::parseInput">
+<area shape="rect" id="node1" title="Parses a move string into a Position object." alt="" coords="196,5,355,32"/>
+<area shape="rect" id="node2" href="$classTestInput.html#a5016c402abd06133ed153b29b8990f03" title="Returns the next human move as a Position." alt="" coords="5,5,148,32"/>
+</map>

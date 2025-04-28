@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classPlayer.html" title="Abstract base class representing a player." alt="" coords="5,31,68,57"/>
+<area shape="rect" id="node2" href="$classAIPlayer.html" title="AI&#45;controlled player." alt="" coords="133,5,209,32"/>
+<area shape="rect" id="node4" href="$classHumanPlayer.html" title="Class representing a human player." alt="" coords="116,56,227,83"/>
+<area shape="rect" id="node3" href="$classControlledAIPlayer.html" title="AI player with deterministic move selection for testing." alt="" coords="275,5,417,32"/>
+</map>

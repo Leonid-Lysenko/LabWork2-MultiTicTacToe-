@@ -1,0 +1,22 @@
+<map id="TEST" name="TEST">
+<area shape="rect" id="node1" title="Test case where player X wins by forming a diagonal across levels in 3D." alt="" coords="5,107,60,133"/>
+<area shape="rect" id="node2" href="$classGame.html#a0f4b064e671b82942fdd2342de456395" title="Returns the current game state." alt="" coords="108,81,232,108"/>
+<area shape="rect" id="node3" href="$classGame.html#a3d9b98f7c4a96ecf578f75b96c9f0e90" title="Starts the game loop." alt="" coords="121,132,219,159"/>
+<area shape="rect" id="node4" href="$classBoard3D.html#a9bf13f3c44d0da0a442b2a8897c3f3f1" title="Displays all levels of the 3D board using the output handler." alt="" coords="566,5,699,32"/>
+<area shape="rect" id="node5" href="$classGame.html#a352092b594a3cffe4ebdd124b23fcf3f" title="Processes a single turn for a player in 3D mode." alt="" coords="280,132,485,159"/>
+<area shape="rect" id="node13" href="$classGame.html#ab1e9b447334f6ec64ad91df3e60574f1" title="Processes a single turn for a player in classic mode." alt="" coords="289,284,476,311"/>
+<area shape="rect" id="node6" href="$classGame.html#a33cfdb05157ddf6356a42859e0e841fa" title="Checks and updates the game state in 3D mode." alt="" coords="533,56,732,83"/>
+<area shape="rect" id="node9" href="$classPlayer.html#adbacb549dd1c2a93cc13603fe919951a" title="Gets the player&#39;s move in 3D mode." alt="" coords="559,107,706,133"/>
+<area shape="rect" id="node10" href="$classPlayer.html#a37e594fcc4855797805de48e13bdf9f0" title="Returns the player&#39;s marker." alt="" coords="564,259,701,285"/>
+<area shape="rect" id="node11" href="$classBoard3D.html#af809401bd881d4905eedfe4a9bcc1e46" title="Executes a move on a specific level." alt="" coords="553,157,712,184"/>
+<area shape="rect" id="node12" href="$classPlayer.html#a226a4c11d51c5037723f880b72144c3a" title="Checks if the player requested to exit the game." alt="" coords="563,208,702,235"/>
+<area shape="rect" id="node7" href="$classBoard3D.html#a543bfaf750c86f4015b735a08834bff6" title="Checks if the specified player has won the game." alt="" coords="789,81,939,108"/>
+<area shape="rect" id="node8" href="$classBoard3D.html#a629525e28b6d78f1efc046d1f9e22757" title="Checks if all levels of the board are full." alt="" coords="804,31,924,57"/>
+<area shape="rect" id="node14" href="$classGame.html#aea417fe687fffaf5d634b84f760b4e14" title="Checks and updates the game state in classic mode." alt="" coords="543,309,723,336"/>
+<area shape="rect" id="node18" href="$classPlayer.html#ab4b53c68cb35afa75a870461e426da57" title="Gets the player&#39;s move in classic mode." alt="" coords="569,360,697,387"/>
+<area shape="rect" id="node19" href="$classBoard.html#adcafb7f3909732ea0043c829b91e7e2d" title="Sets the cell value at the specified position." alt="" coords="576,411,689,437"/>
+<area shape="rect" id="node15" href="$classGameRules.html#aac69246a5d92996b2c43676f795d58d9" title="Checks if the specified player has won." alt="" coords="780,335,948,361"/>
+<area shape="rect" id="node17" href="$classBoard.html#aea604144c08c8442221b4a619d47db94" title="Checks if the board is completely filled." alt="" coords="813,284,915,311"/>
+<area shape="rect" id="node16" href="$classBoard.html#a16cdb8eaec4202fe7df18d6ca23a3f1d" title="Returns the entire grid as a 2D vector." alt="" coords="996,335,1112,361"/>
+<area shape="rect" id="node20" href="$classBoard.html#a73d6e27fbfbbf73db8c3a532f2d42171" title="Checks if the given position is valid on the board." alt="" coords="783,411,945,437"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="Game::process3DPlayerTurn" name="Game::process3DPlayerTurn">
+<area shape="rect" id="node1" title="Processes a single turn for a player in 3D mode." alt="" coords="5,157,211,184"/>
+<area shape="rect" id="node2" href="$classGame.html#a33cfdb05157ddf6356a42859e0e841fa" title="Checks and updates the game state in 3D mode." alt="" coords="259,31,457,57"/>
+<area shape="rect" id="node5" href="$classBoard3D.html#a9bf13f3c44d0da0a442b2a8897c3f3f1" title="Displays all levels of the 3D board using the output handler." alt="" coords="291,81,425,108"/>
+<area shape="rect" id="node6" href="$classPlayer.html#adbacb549dd1c2a93cc13603fe919951a" title="Gets the player&#39;s move in 3D mode." alt="" coords="285,132,431,159"/>
+<area shape="rect" id="node7" href="$classPlayer.html#a37e594fcc4855797805de48e13bdf9f0" title="Returns the player&#39;s marker." alt="" coords="289,183,427,209"/>
+<area shape="rect" id="node8" href="$classBoard3D.html#af809401bd881d4905eedfe4a9bcc1e46" title="Executes a move on a specific level." alt="" coords="279,233,437,260"/>
+<area shape="rect" id="node9" href="$classPlayer.html#a226a4c11d51c5037723f880b72144c3a" title="Checks if the player requested to exit the game." alt="" coords="289,284,427,311"/>
+<area shape="rect" id="node3" href="$classBoard3D.html#a543bfaf750c86f4015b735a08834bff6" title="Checks if the specified player has won the game." alt="" coords="505,5,655,32"/>
+<area shape="rect" id="node4" href="$classBoard3D.html#a629525e28b6d78f1efc046d1f9e22757" title="Checks if all levels of the board are full." alt="" coords="520,56,640,83"/>
+</map>

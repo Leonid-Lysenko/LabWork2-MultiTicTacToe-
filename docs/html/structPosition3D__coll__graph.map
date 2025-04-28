@@ -1,0 +1,4 @@
+<map id="Position3D" name="Position3D">
+<area shape="rect" id="node1" title="Represents a position in 3D space (level + position on the level)." alt="" coords="5,95,97,121"/>
+<area shape="rect" id="node2" href="$classPosition.html" title="Represents a position on the game board." alt="" coords="14,5,89,32"/>
+</map>

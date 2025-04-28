@@ -1,0 +1,11 @@
+<map id="Board3D::checkWin" name="Board3D::checkWin">
+<area shape="rect" id="node1" title="Checks if the specified player has won the game." alt="" coords="884,89,1033,116"/>
+<area shape="rect" id="node2" href="$classGame.html#a33cfdb05157ddf6356a42859e0e841fa" title="Checks and updates the game state in 3D mode." alt="" coords="637,64,836,91"/>
+<area shape="rect" id="node8" href="$classAIPlayer.html#a331e307caf07205cafee1ed76494a0a0" title="Finds a winning move in 3D space." alt="" coords="638,115,835,141"/>
+<area shape="rect" id="node3" href="$classGame.html#a352092b594a3cffe4ebdd124b23fcf3f" title="Processes a single turn for a player in 3D mode." alt="" coords="384,64,589,91"/>
+<area shape="rect" id="node4" href="$classGame.html#a3d9b98f7c4a96ecf578f75b96c9f0e90" title="Starts the game loop." alt="" coords="237,64,336,91"/>
+<area shape="rect" id="node5" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="Main function &#45; entry point of the application." alt="" coords="70,5,125,32"/>
+<area shape="rect" id="node6" href="$classIntegrationTest.html#acbc0b497e7b1195c0f595813021a3a7a" title="Simulates a game with specified human moves against controlled AI." alt="" coords="5,57,189,98"/>
+<area shape="rect" id="node7" href="$test__3d__game_8cpp.html#a269fa077455455cef649c722293e9289" title="Test case for winning the 3D game by completing a space diagonal." alt="" coords="70,123,125,149"/>
+<area shape="rect" id="node9" href="$classAIPlayer.html#a4f320821c2e421656da6769248aff226" title="Gets the next move from the AI (3D mode)." alt="" coords="407,115,566,141"/>
+</map>

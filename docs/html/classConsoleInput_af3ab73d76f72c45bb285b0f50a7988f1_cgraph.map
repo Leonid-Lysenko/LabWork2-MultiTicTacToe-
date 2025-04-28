@@ -1,0 +1,5 @@
+<map id="ConsoleInput::get3DInput" name="ConsoleInput::get3DInput">
+<area shape="rect" id="node1" title="Gets a 3D move input from the console." alt="" coords="5,5,192,32"/>
+<area shape="rect" id="node2" href="$classValidator.html#ae79265ad1d676526a56952688fb3e8d3" title="Validates input for 3D mode." alt="" coords="240,5,432,32"/>
+<area shape="rect" id="node3" href="$classValidator.html#a780b2a008edac5905483b08616cfd72a" title="Validates input for classic mode." alt="" coords="480,5,655,32"/>
+</map>

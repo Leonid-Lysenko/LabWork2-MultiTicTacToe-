@@ -1,0 +1,7 @@
+<map id="HumanPlayer::getMove" name="HumanPlayer::getMove">
+<area shape="rect" id="node1" title="Gets the player&#39;s move in classic mode." alt="" coords="5,56,180,83"/>
+<area shape="rect" id="node2" href="$classBoard.html#a3afa93ba72dd08cfdcbf264f9b077ef9" title="Checks if a given move is valid." alt="" coords="228,31,375,57"/>
+<area shape="rect" id="node5" href="$classPlayer.html#a226a4c11d51c5037723f880b72144c3a" title="Checks if the player requested to exit the game." alt="" coords="232,81,371,108"/>
+<area shape="rect" id="node3" href="$classBoard.html#ab60a1f5210c03763122808df3f36e928" title="Returns the cell value at the specified position." alt="" coords="423,5,537,32"/>
+<area shape="rect" id="node4" href="$classBoard.html#a73d6e27fbfbbf73db8c3a532f2d42171" title="Checks if the given position is valid on the board." alt="" coords="585,31,748,57"/>
+</map>

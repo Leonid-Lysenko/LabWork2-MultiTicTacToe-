@@ -1,0 +1,10 @@
+<map id="include/MediumAIDifficulty.h" name="include/MediumAIDifficulty.h">
+<area shape="rect" id="node1" title="Header file for the MediumAIDifficulty class." alt="" coords="150,5,358,32"/>
+<area shape="rect" id="node2" href="$AIDifficulty_8h.html" title="Header file for the AIDifficulty interface." alt="" coords="71,80,175,107"/>
+<area shape="rect" id="node7" title=" " alt="" coords="309,229,383,256"/>
+<area shape="rect" id="node8" href="$GameRules_8h.html" title="Header file for the GameRules class." alt="" coords="199,80,309,107"/>
+<area shape="rect" id="node3" href="$Position_8h.html" title="Header file for the Position class." alt="" coords="5,155,92,181"/>
+<area shape="rect" id="node4" href="$Board_8h.html" title="Represents the game board for Tic&#45;Tac&#45;Toe." alt="" coords="218,155,290,181"/>
+<area shape="rect" id="node5" href="$Cell_8h.html" title="Header file for Cell enumeration." alt="" coords="138,229,197,256"/>
+<area shape="rect" id="node6" title=" " alt="" coords="221,229,284,256"/>
+</map>

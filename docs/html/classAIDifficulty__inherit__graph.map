@@ -1,0 +1,6 @@
+<map id="AIDifficulty" name="AIDifficulty">
+<area shape="rect" id="node1" title="Interface for different AI difficulty levels." alt="" coords="101,5,195,32"/>
+<area shape="rect" id="node2" href="$classEasyAIDifficulty.html" title="Easy AI difficulty level that makes random moves." alt="" coords="5,80,131,107"/>
+<area shape="rect" id="node3" href="$classMediumAIDifficulty.html" title="Medium AI difficulty level." alt="" coords="155,80,301,107"/>
+<area shape="rect" id="node4" href="$classHardAIDifficulty.html" title="Hard AI difficulty level using the Minimax algorithm." alt="" coords="165,155,291,181"/>
+</map>
