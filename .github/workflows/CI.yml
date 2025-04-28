@@ -1,4 +1,4 @@
-name: Multi tic-tac-toe CI
+name: C/C++ CI
 
 on:
   push:
@@ -18,12 +18,12 @@ jobs:
         sudo apt-get update
         sudo apt-get install -y build-essential cmake libgtest-dev
 
-    - name: Build Google Test
+    - name: Build and install Google Test
       run: |
-        cd /usr/src/gtest
+        cd /usr/src/googletest
         sudo cmake CMakeLists.txt
         sudo make
-        sudo cp *.a /usr/lib
+        sudo cp lib/libgtest*.a /usr/lib
 
     - name: Create build directory
       run: mkdir -p build bin
