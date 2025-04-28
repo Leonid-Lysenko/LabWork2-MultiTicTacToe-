@@ -1,4 +1,4 @@
-naname: Multi tic-tac-toe CI
+name: Multi tic-tac-toe CI
 
 on:
   push:
