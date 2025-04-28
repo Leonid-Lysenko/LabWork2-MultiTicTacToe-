@@ -1,0 +1,38 @@
+name: Multi tic-tac-toe CI
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: Install dependencies
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y build-essential cmake libgtest-dev
+
+    - name: Build Google Test
+      run: |
+        cd /usr/src/gtest
+        sudo cmake CMakeLists.txt
+        sudo make
+        sudo cp *.a /usr/lib
+
+    - name: Create build directory
+      run: mkdir -p build bin
+
+    - name: Build project
+      run: |
+        make
+        make tests
+
+    - name: Run tests
+      run: |
+        ./bin/runTests
