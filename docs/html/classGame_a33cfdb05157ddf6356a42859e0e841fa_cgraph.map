@@ -1,0 +1,5 @@
+<map id="Game::check3DGameState" name="Game::check3DGameState">
+<area shape="rect" id="node1" title="Checks and updates the game state in 3D mode." alt="" coords="5,31,204,57"/>
+<area shape="rect" id="node2" href="$classBoard3D.html#a543bfaf750c86f4015b735a08834bff6" title="Checks if the specified player has won the game." alt="" coords="252,5,401,32"/>
+<area shape="rect" id="node3" href="$classBoard3D.html#a629525e28b6d78f1efc046d1f9e22757" title="Checks if all levels of the board are full." alt="" coords="267,56,387,83"/>
+</map>

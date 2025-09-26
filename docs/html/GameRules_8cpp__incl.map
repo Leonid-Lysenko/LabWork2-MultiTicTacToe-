@@ -1,0 +1,8 @@
+<map id="src/GameRules.cpp" name="src/GameRules.cpp">
+<area shape="rect" id="node1" title="Implementation of the GameRules class that checks game conditions." alt="" coords="5,5,152,32"/>
+<area shape="rect" id="node2" href="$GameRules_8h.html" title="Header file for the GameRules class." alt="" coords="24,80,133,107"/>
+<area shape="rect" id="node3" href="$Board_8h.html" title="Represents the game board for Tic&#45;Tac&#45;Toe." alt="" coords="83,155,155,181"/>
+<area shape="rect" id="node4" href="$Cell_8h.html" title="Header file for Cell enumeration." alt="" coords="8,229,67,256"/>
+<area shape="rect" id="node5" title=" " alt="" coords="91,229,154,256"/>
+<area shape="rect" id="node6" title=" " alt="" coords="179,229,253,256"/>
+</map>

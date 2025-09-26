@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classAIDifficulty.html" title="Interface for different AI difficulty levels." alt="" coords="5,31,100,57"/>
+<area shape="rect" id="node2" href="$classEasyAIDifficulty.html" title="Easy AI difficulty level that makes random moves." alt="" coords="159,5,284,32"/>
+<area shape="rect" id="node3" href="$classMediumAIDifficulty.html" title="Medium AI difficulty level." alt="" coords="148,56,295,83"/>
+<area shape="rect" id="node4" href="$classHardAIDifficulty.html" title="Hard AI difficulty level using the Minimax algorithm." alt="" coords="343,56,468,83"/>
+</map>

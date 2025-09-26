@@ -1,0 +1,5 @@
+<map id="EasyAIDifficulty::calculateBestMove" name="EasyAIDifficulty::calculateBestMove">
+<area shape="rect" id="node1" title="Calculates a random valid move on the board." alt="" coords="5,5,196,47"/>
+<area shape="rect" id="node2" href="$classBoard.html#ab60a1f5210c03763122808df3f36e928" title="Returns the cell value at the specified position." alt="" coords="244,13,359,39"/>
+<area shape="rect" id="node3" href="$classBoard.html#a73d6e27fbfbbf73db8c3a532f2d42171" title="Checks if the given position is valid on the board." alt="" coords="407,13,569,39"/>
+</map>

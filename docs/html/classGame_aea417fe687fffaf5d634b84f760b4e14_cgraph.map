@@ -1,0 +1,6 @@
+<map id="Game::checkGameState" name="Game::checkGameState">
+<area shape="rect" id="node1" title="Checks and updates the game state in classic mode." alt="" coords="5,31,185,57"/>
+<area shape="rect" id="node2" href="$classGameRules.html#aac69246a5d92996b2c43676f795d58d9" title="Checks if the specified player has won." alt="" coords="233,5,401,32"/>
+<area shape="rect" id="node4" href="$classBoard.html#aea604144c08c8442221b4a619d47db94" title="Checks if the board is completely filled." alt="" coords="266,56,369,83"/>
+<area shape="rect" id="node3" href="$classBoard.html#a16cdb8eaec4202fe7df18d6ca23a3f1d" title="Returns the entire grid as a 2D vector." alt="" coords="449,5,565,32"/>
+</map>

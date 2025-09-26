@@ -1,0 +1,4 @@
+<map id="TEST" name="TEST">
+<area shape="rect" id="node1" title="Test that the game starts correctly and is in ongoing state." alt="" coords="5,5,60,32"/>
+<area shape="rect" id="node2" href="$classGame.html#a0f4b064e671b82942fdd2342de456395" title="Returns the current game state." alt="" coords="108,5,232,32"/>
+</map>

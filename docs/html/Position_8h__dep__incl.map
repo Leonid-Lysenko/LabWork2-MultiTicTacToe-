@@ -1,0 +1,41 @@
+<map id="include/Position.h" name="include/Position.h">
+<area shape="rect" id="node1" title="Header file for the Position class." alt="" coords="1597,5,1734,32"/>
+<area shape="rect" id="node2" href="$AIDifficulty_8h.html" title="Header file for the AIDifficulty interface." alt="" coords="760,155,915,181"/>
+<area shape="rect" id="node17" href="$InputHandler_8h.html" title="Header file for the InputHandler interface." alt="" coords="1588,155,1756,181"/>
+<area shape="rect" id="node30" href="$Move_8h.html" title="Header file for the Move class." alt="" coords="1265,80,1386,107"/>
+<area shape="rect" id="node34" href="$test__board_8cpp.html" title="Unit tests for the Board class functionality." alt="" coords="1409,155,1564,181"/>
+<area shape="rect" id="node35" href="$Position3D_8h.html" title="Header file for the Position3D structure." alt="" coords="1703,80,1857,107"/>
+<area shape="rect" id="node36" href="$Validator_8h.html" title="Header file for the Validator class." alt="" coords="1823,229,1966,256"/>
+<area shape="rect" id="node39" href="$Position_8cpp.html" title="Implementation of the Position class." alt="" coords="1933,80,2057,107"/>
+<area shape="rect" id="node3" href="$AIPlayer_8h.html" title="Header file for the AIPlayer class." alt="" coords="940,304,1079,331"/>
+<area shape="rect" id="node9" href="$EasyAIDifficulty_8h.html" title="Header file for the EasyAIDifficulty class." alt="" coords="729,304,916,331"/>
+<area shape="rect" id="node12" href="$MediumAIDifficulty_8h.html" title="Header file for the MediumAIDifficulty class." alt="" coords="300,229,508,256"/>
+<area shape="rect" id="node15" href="$NoMoveAIDifficulty_8h.html" title="Stub AI that does not make any moves (for testing purposes)." alt="" coords="533,229,742,256"/>
+<area shape="rect" id="node16" href="$AIDifficulty_8cpp.html" title="Implementation file for the AIDifficulty interface." alt="" coords="766,229,909,256"/>
+<area shape="rect" id="node4" href="$AIPlayer_8cpp.html" title="Implementation of the AIPlayer class." alt="" coords="904,386,1029,413"/>
+<area shape="rect" id="node5" href="$main_8cpp.html" title="Main application file for Tic&#45;Tac&#45;Toe game." alt="" coords="774,386,879,413"/>
+<area shape="rect" id="node6" href="$test__ai_8cpp.html" title="Unit tests for AI player behaviors across different difficulty levels." alt="" coords="422,386,551,413"/>
+<area shape="rect" id="node7" href="$test__game_8cpp.html" title="Unit tests for the Game class in classic mode." alt="" coords="1053,386,1208,413"/>
+<area shape="rect" id="node8" href="$test__integration_8cpp.html" title="Reliable integration tests with controlled AI behavior." alt="" coords="1233,386,1421,413"/>
+<area shape="rect" id="node10" href="$EasyAIDifficulty_8cpp.html" title="Implementation of the EasyAIDifficulty class representing a simple AI." alt="" coords="576,386,749,413"/>
+<area shape="rect" id="node11" href="$MediumAIDifficulty_8cpp.html" title="Implementation of the MediumAIDifficulty class with basic strategic AI." alt="" coords="5,386,200,413"/>
+<area shape="rect" id="node13" href="$HardAIDifficulty_8h.html" title="Header file for the HardAIDifficulty class." alt="" coords="295,304,481,331"/>
+<area shape="rect" id="node14" href="$HardAIDifficulty_8cpp.html" title="Implementation of the HardAIDifficulty class using the Minimax algorithm." alt="" coords="224,386,397,413"/>
+<area shape="rect" id="node18" href="$ConsoleInput_8h.html" title="Header file for the ConsoleInput class." alt="" coords="1328,304,1499,331"/>
+<area shape="rect" id="node23" href="$Player_8h.html" title="Header file for the Player base class." alt="" coords="1656,229,1781,256"/>
+<area shape="rect" id="node29" href="$InputHandler_8cpp.html" title="Implementation file for the InputHandler interface." alt="" coords="1477,229,1632,256"/>
+<area shape="rect" id="node19" href="$ConsoleInput_8cpp.html" title="Implementation of the ConsoleInput class for handling user input via console." alt="" coords="1445,386,1603,413"/>
+<area shape="rect" id="node20" href="$test__3d__game_8cpp.html" title="Unit tests for 3D Tic&#45;Tac&#45;Toe game mode including win scenarios and early exit handling." alt="" coords="1961,386,2138,413"/>
+<area shape="rect" id="node21" href="$test__3d__human__vs__human_8cpp.html" title="Unit tests for 3D Tic&#45;Tac&#45;Toe mode with two human players." alt="" coords="2162,379,2321,420"/>
+<area shape="rect" id="node22" href="$test__classic__human__vs__human_8cpp.html" title="Unit tests for classic 2D Tic&#45;Tac&#45;Toe mode with two human players." alt="" coords="1627,379,1802,420"/>
+<area shape="rect" id="node24" href="$Game_8h.html" title="Header file for the Game class." alt="" coords="1523,304,1647,331"/>
+<area shape="rect" id="node26" href="$HumanPlayer_8h.html" title="Header file for the HumanPlayer class." alt="" coords="1809,304,1981,331"/>
+<area shape="rect" id="node28" href="$Player_8cpp.html" title="Implementation of the Player base class." alt="" coords="1672,304,1784,331"/>
+<area shape="rect" id="node25" href="$Game_8cpp.html" title="Implementation of the Game class managing the game flow." alt="" coords="1826,386,1937,413"/>
+<area shape="rect" id="node27" href="$HumanPlayer_8cpp.html" title="Implementation of the HumanPlayer class handling human input." alt="" coords="2345,386,2503,413"/>
+<area shape="rect" id="node31" href="$Board_8cpp.html" title="Implementation of the Board class representing the game board." alt="" coords="1223,155,1334,181"/>
+<area shape="rect" id="node32" href="$Board3D_8cpp.html" title="Implementation of the Board3D class representing a 3D tic&#45;tac&#45;toe board." alt="" coords="939,155,1067,181"/>
+<area shape="rect" id="node33" href="$Move_8cpp.html" title="Implementation of the Move class representing a player&#39;s move." alt="" coords="1091,155,1199,181"/>
+<area shape="rect" id="node37" href="$Validator_8cpp.html" title="Implementation of the Validator class for validating user input." alt="" coords="2005,304,2134,331"/>
+<area shape="rect" id="node38" href="$test__validator_8cpp.html" title="Unit tests for the Validator class." alt="" coords="2158,304,2333,331"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Board3D::getLevel" name="Board3D::getLevel">
+<area shape="rect" id="node1" title="Returns a constant reference to the board at the specified level." alt="" coords="457,31,600,57"/>
+<area shape="rect" id="node2" href="$classAIPlayer.html#a331e307caf07205cafee1ed76494a0a0" title="Finds a winning move in 3D space." alt="" coords="212,5,409,32"/>
+<area shape="rect" id="node3" href="$classAIPlayer.html#a4f320821c2e421656da6769248aff226" title="Gets the next move from the AI (3D mode)." alt="" coords="5,31,164,57"/>
+</map>

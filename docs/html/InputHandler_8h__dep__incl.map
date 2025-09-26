@@ -1,0 +1,21 @@
+<map id="include/InputHandler.h" name="include/InputHandler.h">
+<area shape="rect" id="node1" title="Header file for the InputHandler interface." alt="" coords="917,5,1085,32"/>
+<area shape="rect" id="node2" href="$ConsoleInput_8h.html" title="Header file for the ConsoleInput class." alt="" coords="584,155,755,181"/>
+<area shape="rect" id="node10" href="$Player_8h.html" title="Header file for the Player base class." alt="" coords="939,80,1064,107"/>
+<area shape="rect" id="node19" href="$InputHandler_8cpp.html" title="Implementation file for the InputHandler interface." alt="" coords="1088,80,1243,107"/>
+<area shape="rect" id="node3" href="$ConsoleInput_8cpp.html" title="Implementation of the ConsoleInput class for handling user input via console." alt="" coords="5,237,163,263"/>
+<area shape="rect" id="node4" href="$main_8cpp.html" title="Main application file for Tic&#45;Tac&#45;Toe game." alt="" coords="1345,237,1450,263"/>
+<area shape="rect" id="node5" href="$test__3d__game_8cpp.html" title="Unit tests for 3D Tic&#45;Tac&#45;Toe game mode including win scenarios and early exit handling." alt="" coords="751,237,929,263"/>
+<area shape="rect" id="node6" href="$test__3d__human__vs__human_8cpp.html" title="Unit tests for 3D Tic&#45;Tac&#45;Toe mode with two human players." alt="" coords="370,229,529,271"/>
+<area shape="rect" id="node7" href="$test__classic__human__vs__human_8cpp.html" title="Unit tests for classic 2D Tic&#45;Tac&#45;Toe mode with two human players." alt="" coords="553,229,727,271"/>
+<area shape="rect" id="node8" href="$test__game_8cpp.html" title="Unit tests for the Game class in classic mode." alt="" coords="953,237,1108,263"/>
+<area shape="rect" id="node9" href="$test__integration_8cpp.html" title="Reliable integration tests with controlled AI behavior." alt="" coords="1133,237,1321,263"/>
+<area shape="rect" id="node11" href="$AIPlayer_8h.html" title="Header file for the AIPlayer class." alt="" coords="1293,155,1432,181"/>
+<area shape="rect" id="node14" href="$Game_8h.html" title="Header file for the Game class." alt="" coords="1111,155,1235,181"/>
+<area shape="rect" id="node16" href="$HumanPlayer_8h.html" title="Header file for the HumanPlayer class." alt="" coords="915,155,1087,181"/>
+<area shape="rect" id="node18" href="$Player_8cpp.html" title="Implementation of the Player base class." alt="" coords="779,155,891,181"/>
+<area shape="rect" id="node12" href="$AIPlayer_8cpp.html" title="Implementation of the AIPlayer class." alt="" coords="1609,237,1735,263"/>
+<area shape="rect" id="node13" href="$test__ai_8cpp.html" title="Unit tests for AI player behaviors across different difficulty levels." alt="" coords="1759,237,1889,263"/>
+<area shape="rect" id="node15" href="$Game_8cpp.html" title="Implementation of the Game class managing the game flow." alt="" coords="1474,237,1585,263"/>
+<area shape="rect" id="node17" href="$HumanPlayer_8cpp.html" title="Implementation of the HumanPlayer class handling human input." alt="" coords="187,237,346,263"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="Game::processPlayerTurn" name="Game::processPlayerTurn">
+<area shape="rect" id="node1" title="Processes a single turn for a player in classic mode." alt="" coords="5,132,192,159"/>
+<area shape="rect" id="node2" href="$classGame.html#aea417fe687fffaf5d634b84f760b4e14" title="Checks and updates the game state in classic mode." alt="" coords="240,31,420,57"/>
+<area shape="rect" id="node6" href="$classPlayer.html#a37e594fcc4855797805de48e13bdf9f0" title="Returns the player&#39;s marker." alt="" coords="261,81,399,108"/>
+<area shape="rect" id="node7" href="$classPlayer.html#ab4b53c68cb35afa75a870461e426da57" title="Gets the player&#39;s move in classic mode." alt="" coords="266,132,394,159"/>
+<area shape="rect" id="node8" href="$classBoard.html#adcafb7f3909732ea0043c829b91e7e2d" title="Sets the cell value at the specified position." alt="" coords="273,183,387,209"/>
+<area shape="rect" id="node10" href="$classPlayer.html#a226a4c11d51c5037723f880b72144c3a" title="Checks if the player requested to exit the game." alt="" coords="261,233,399,260"/>
+<area shape="rect" id="node3" href="$classGameRules.html#aac69246a5d92996b2c43676f795d58d9" title="Checks if the specified player has won." alt="" coords="468,5,636,32"/>
+<area shape="rect" id="node5" href="$classBoard.html#aea604144c08c8442221b4a619d47db94" title="Checks if the board is completely filled." alt="" coords="501,56,603,83"/>
+<area shape="rect" id="node4" href="$classBoard.html#a16cdb8eaec4202fe7df18d6ca23a3f1d" title="Returns the entire grid as a 2D vector." alt="" coords="684,5,800,32"/>
+<area shape="rect" id="node9" href="$classBoard.html#a73d6e27fbfbbf73db8c3a532f2d42171" title="Checks if the given position is valid on the board." alt="" coords="471,183,633,209"/>
+</map>

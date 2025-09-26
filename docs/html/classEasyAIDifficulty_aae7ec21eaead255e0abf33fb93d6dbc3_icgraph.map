@@ -1,0 +1,4 @@
+<map id="EasyAIDifficulty::calculateBestMove" name="EasyAIDifficulty::calculateBestMove">
+<area shape="rect" id="node1" title="Calculates a random valid move on the board." alt="" coords="208,5,399,47"/>
+<area shape="rect" id="node2" href="$classMediumAIDifficulty.html#a1e2b191a320ee5315849174ca28330fd" title="Calculates the best move for the AI." alt="" coords="5,5,160,47"/>
+</map>

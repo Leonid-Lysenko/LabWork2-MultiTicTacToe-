@@ -1,0 +1,8 @@
+<map id="AIPlayer::findWinningMove" name="AIPlayer::findWinningMove">
+<area shape="rect" id="node1" title="Finds a winning move in 3D space." alt="" coords="5,81,203,108"/>
+<area shape="rect" id="node2" href="$classBoard3D.html#a543bfaf750c86f4015b735a08834bff6" title="Checks if the specified player has won the game." alt="" coords="255,5,405,32"/>
+<area shape="rect" id="node3" href="$classBoard.html#ab60a1f5210c03763122808df3f36e928" title="Returns the cell value at the specified position." alt="" coords="273,56,387,83"/>
+<area shape="rect" id="node5" href="$classBoard3D.html#a541fa9affa2680fd579c420a6f6a7433" title="Returns a constant reference to the board at the specified level." alt="" coords="259,107,401,133"/>
+<area shape="rect" id="node6" href="$classBoard3D.html#af809401bd881d4905eedfe4a9bcc1e46" title="Executes a move on a specific level." alt="" coords="251,157,409,184"/>
+<area shape="rect" id="node4" href="$classBoard.html#a73d6e27fbfbbf73db8c3a532f2d42171" title="Checks if the given position is valid on the board." alt="" coords="457,56,620,83"/>
+</map>

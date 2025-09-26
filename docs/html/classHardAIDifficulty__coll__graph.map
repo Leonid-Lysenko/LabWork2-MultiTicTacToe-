@@ -1,0 +1,6 @@
+<map id="HardAIDifficulty" name="HardAIDifficulty">
+<area shape="rect" id="node1" title="Hard AI difficulty level using the Minimax algorithm." alt="" coords="50,171,175,197"/>
+<area shape="rect" id="node2" href="$classMediumAIDifficulty.html" title="Medium AI difficulty level." alt="" coords="39,95,186,121"/>
+<area shape="rect" id="node3" href="$classAIDifficulty.html" title="Interface for different AI difficulty levels." alt="" coords="5,5,100,32"/>
+<area shape="rect" id="node4" href="$classGameRules.html" title="Class containing the game rules logic." alt="" coords="124,5,221,32"/>
+</map>

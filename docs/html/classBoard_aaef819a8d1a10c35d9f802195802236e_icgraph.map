@@ -1,0 +1,5 @@
+<map id="Board::reset" name="Board::reset">
+<area shape="rect" id="node1" title="Resets the board to an empty state." alt="" coords="160,31,261,57"/>
+<area shape="rect" id="node2" href="$classBoard.html#a9ee491d4fea680cf69b033374a9fdfcb" title="Constructs a new empty board." alt="" coords="5,5,112,32"/>
+<area shape="rect" id="node3" href="$test__rules_8cpp.html#aa6f79ad22c1a30ede84f9b4efc47abd0" title="Test winning condition detection in rows, columns, and diagonals." alt="" coords="31,56,86,83"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="ControlledAIPlayer" name="ControlledAIPlayer">
+<area shape="rect" id="node1" title="AI player with deterministic move selection for testing." alt="" coords="133,260,276,287"/>
+<area shape="rect" id="node2" href="$classAIPlayer.html" title="AI&#45;controlled player." alt="" coords="167,184,243,211"/>
+<area shape="rect" id="node3" href="$classPlayer.html" title="Abstract base class representing a player." alt="" coords="91,95,153,121"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,5,239,32"/>
+<area shape="rect" id="node5" title=" " alt="" coords="178,95,399,121"/>
+</map>

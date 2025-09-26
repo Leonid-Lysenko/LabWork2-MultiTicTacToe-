@@ -1,0 +1,12 @@
+<map id="src/ConsoleOutput.cpp" name="src/ConsoleOutput.cpp">
+<area shape="rect" id="node1" title="Implementation of the ConsoleOutput class for displaying game information in the console." alt="" coords="60,5,228,32"/>
+<area shape="rect" id="node2" href="$ConsoleOutput_8h.html" title="Header file for the ConsoleOutput class." alt="" coords="15,80,145,107"/>
+<area shape="rect" id="node10" title=" " alt="" coords="169,80,249,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,229,64,256"/>
+<area shape="rect" id="node4" href="$OutputHandler_8h.html" title="Header file for the OutputHandler interface." alt="" coords="67,155,195,181"/>
+<area shape="rect" id="node5" href="$Board_8h.html" title="Represents the game board for Tic&#45;Tac&#45;Toe." alt="" coords="91,229,163,256"/>
+<area shape="rect" id="node9" href="$GameState_8h.html" title="Header file for the GameState enumeration." alt="" coords="187,229,293,256"/>
+<area shape="rect" id="node6" href="$Cell_8h.html" title="Header file for Cell enumeration." alt="" coords="12,304,71,331"/>
+<area shape="rect" id="node7" title=" " alt="" coords="95,304,158,331"/>
+<area shape="rect" id="node8" title=" " alt="" coords="183,304,257,331"/>
+</map>

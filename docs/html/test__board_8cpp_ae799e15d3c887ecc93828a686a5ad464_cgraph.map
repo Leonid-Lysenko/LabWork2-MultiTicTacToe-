@@ -1,0 +1,6 @@
+<map id="TEST" name="TEST">
+<area shape="rect" id="node1" title="Test setting and getting cell values on the board." alt="" coords="5,31,60,57"/>
+<area shape="rect" id="node2" href="$classBoard.html#ab60a1f5210c03763122808df3f36e928" title="Returns the cell value at the specified position." alt="" coords="108,5,223,32"/>
+<area shape="rect" id="node4" href="$classBoard.html#adcafb7f3909732ea0043c829b91e7e2d" title="Sets the cell value at the specified position." alt="" coords="109,56,222,83"/>
+<area shape="rect" id="node3" href="$classBoard.html#a73d6e27fbfbbf73db8c3a532f2d42171" title="Checks if the given position is valid on the board." alt="" coords="271,31,433,57"/>
+</map>

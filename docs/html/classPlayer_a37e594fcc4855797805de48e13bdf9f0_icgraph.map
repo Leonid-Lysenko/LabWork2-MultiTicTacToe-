@@ -1,0 +1,13 @@
+<map id="Player::getMarker" name="Player::getMarker">
+<area shape="rect" id="node1" title="Returns the player&#39;s marker." alt="" coords="637,115,775,141"/>
+<area shape="rect" id="node2" href="$classAIPlayer.html#a4f320821c2e421656da6769248aff226" title="Gets the next move from the AI (3D mode)." alt="" coords="407,5,566,32"/>
+<area shape="rect" id="node3" href="$classAIPlayer.html#a2824bfae35a89f9369444e1ea7d627fc" title="Gets the next move from the AI (classic mode)." alt="" coords="416,56,557,83"/>
+<area shape="rect" id="node5" href="$classControlledAIPlayer.html#a83c1577618338511ad126759142e061f" title="Returns the first available empty cell as the move." alt="" coords="415,107,558,149"/>
+<area shape="rect" id="node6" href="$classGame.html#a352092b594a3cffe4ebdd124b23fcf3f" title="Processes a single turn for a player in 3D mode." alt="" coords="384,173,589,200"/>
+<area shape="rect" id="node11" href="$classGame.html#ab1e9b447334f6ec64ad91df3e60574f1" title="Processes a single turn for a player in classic mode." alt="" coords="393,224,580,251"/>
+<area shape="rect" id="node4" href="$test__ai_8cpp.html#af47d2384ade8be395f18a160132467eb" title="Test that Easy AI selects a valid empty cell on the board." alt="" coords="259,56,314,83"/>
+<area shape="rect" id="node7" href="$classGame.html#a3d9b98f7c4a96ecf578f75b96c9f0e90" title="Starts the game loop." alt="" coords="237,199,336,225"/>
+<area shape="rect" id="node8" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="Main function &#45; entry point of the application." alt="" coords="70,140,125,167"/>
+<area shape="rect" id="node9" href="$classIntegrationTest.html#acbc0b497e7b1195c0f595813021a3a7a" title="Simulates a game with specified human moves against controlled AI." alt="" coords="5,191,189,233"/>
+<area shape="rect" id="node10" href="$test__3d__game_8cpp.html#a269fa077455455cef649c722293e9289" title="Test case for winning the 3D game by completing a space diagonal." alt="" coords="70,257,125,284"/>
+</map>

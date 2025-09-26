@@ -1,0 +1,10 @@
+<map id="AIPlayer::get3DMove" name="AIPlayer::get3DMove">
+<area shape="rect" id="node1" title="Gets the next move from the AI (3D mode)." alt="" coords="5,157,164,184"/>
+<area shape="rect" id="node2" href="$classAIPlayer.html#a331e307caf07205cafee1ed76494a0a0" title="Finds a winning move in 3D space." alt="" coords="212,107,409,133"/>
+<area shape="rect" id="node6" href="$classBoard3D.html#a541fa9affa2680fd579c420a6f6a7433" title="Returns a constant reference to the board at the specified level." alt="" coords="465,157,608,184"/>
+<area shape="rect" id="node8" href="$classPlayer.html#a37e594fcc4855797805de48e13bdf9f0" title="Returns the player&#39;s marker." alt="" coords="242,208,379,235"/>
+<area shape="rect" id="node3" href="$classBoard3D.html#a543bfaf750c86f4015b735a08834bff6" title="Checks if the specified player has won the game." alt="" coords="462,5,611,32"/>
+<area shape="rect" id="node4" href="$classBoard.html#ab60a1f5210c03763122808df3f36e928" title="Returns the cell value at the specified position." alt="" coords="479,56,594,83"/>
+<area shape="rect" id="node7" href="$classBoard3D.html#af809401bd881d4905eedfe4a9bcc1e46" title="Executes a move on a specific level." alt="" coords="457,107,616,133"/>
+<area shape="rect" id="node5" href="$classBoard.html#a73d6e27fbfbbf73db8c3a532f2d42171" title="Checks if the given position is valid on the board." alt="" coords="664,56,827,83"/>
+</map>

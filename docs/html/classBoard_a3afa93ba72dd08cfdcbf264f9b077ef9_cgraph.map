@@ -1,0 +1,5 @@
+<map id="Board::isMoveValid" name="Board::isMoveValid">
+<area shape="rect" id="node1" title="Checks if a given move is valid." alt="" coords="5,31,152,57"/>
+<area shape="rect" id="node2" href="$classBoard.html#ab60a1f5210c03763122808df3f36e928" title="Returns the cell value at the specified position." alt="" coords="200,5,315,32"/>
+<area shape="rect" id="node3" href="$classBoard.html#a73d6e27fbfbbf73db8c3a532f2d42171" title="Checks if the given position is valid on the board." alt="" coords="363,31,525,57"/>
+</map>

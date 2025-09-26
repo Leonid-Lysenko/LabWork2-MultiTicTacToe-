@@ -1,0 +1,4 @@
+<map id="HardAIDifficulty::minimax" name="HardAIDifficulty::minimax">
+<area shape="rect" id="node1" title="Minimax algorithm implementation." alt="" coords="244,13,435,39"/>
+<area shape="rect" id="node2" href="$classHardAIDifficulty.html#ab6ccc0f386c80895c18b196417c1e21b" title="Calculates the optimal move using the Minimax algorithm." alt="" coords="5,5,196,47"/>
+</map>

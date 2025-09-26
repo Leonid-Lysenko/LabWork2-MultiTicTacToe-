@@ -1,0 +1,8 @@
+<map id="include/AIPlayer.h" name="include/AIPlayer.h">
+<area shape="rect" id="node1" title="Header file for the AIPlayer class." alt="" coords="280,5,419,32"/>
+<area shape="rect" id="node2" href="$AIPlayer_8cpp.html" title="Implementation of the AIPlayer class." alt="" coords="5,80,131,107"/>
+<area shape="rect" id="node3" href="$main_8cpp.html" title="Main application file for Tic&#45;Tac&#45;Toe game." alt="" coords="155,80,261,107"/>
+<area shape="rect" id="node4" href="$test__ai_8cpp.html" title="Unit tests for AI player behaviors across different difficulty levels." alt="" coords="285,80,414,107"/>
+<area shape="rect" id="node5" href="$test__game_8cpp.html" title="Unit tests for the Game class in classic mode." alt="" coords="439,80,593,107"/>
+<area shape="rect" id="node6" href="$test__integration_8cpp.html" title="Reliable integration tests with controlled AI behavior." alt="" coords="618,80,806,107"/>
+</map>

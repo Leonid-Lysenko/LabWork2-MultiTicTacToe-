@@ -1,0 +1,5 @@
+<map id="OutputHandler" name="OutputHandler">
+<area shape="rect" id="node1" title="Interface for output handling." alt="" coords="6,5,123,32"/>
+<area shape="rect" id="node2" href="$classConsoleOutput.html" title="Handles output of game information to the console." alt="" coords="5,80,124,107"/>
+<area shape="rect" id="node3" href="$classTestOutput.html" title="Custom output handler to capture the last board state." alt="" coords="19,155,111,181"/>
+</map>

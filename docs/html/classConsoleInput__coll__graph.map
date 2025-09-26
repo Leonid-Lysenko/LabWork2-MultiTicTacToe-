@@ -1,0 +1,5 @@
+<map id="ConsoleInput" name="ConsoleInput">
+<area shape="rect" id="node1" title="Handles input from the console." alt="" coords="64,95,171,121"/>
+<area shape="rect" id="node2" href="$classInputHandler.html" title="Interface for input handling." alt="" coords="5,5,112,32"/>
+<area shape="rect" id="node3" href="$classValidator.html" title="Validates user input." alt="" coords="136,5,216,32"/>
+</map>

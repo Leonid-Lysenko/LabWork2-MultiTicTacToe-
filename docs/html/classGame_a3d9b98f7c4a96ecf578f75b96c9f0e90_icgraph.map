@@ -1,0 +1,6 @@
+<map id="Game::start" name="Game::start">
+<area shape="rect" id="node1" title="Starts the game loop." alt="" coords="237,64,336,91"/>
+<area shape="rect" id="node2" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="Main function &#45; entry point of the application." alt="" coords="70,5,125,32"/>
+<area shape="rect" id="node3" href="$classIntegrationTest.html#acbc0b497e7b1195c0f595813021a3a7a" title="Simulates a game with specified human moves against controlled AI." alt="" coords="5,57,189,98"/>
+<area shape="rect" id="node4" href="$test__3d__game_8cpp.html#a269fa077455455cef649c722293e9289" title="Test case for winning the 3D game by completing a space diagonal." alt="" coords="70,123,125,149"/>
+</map>

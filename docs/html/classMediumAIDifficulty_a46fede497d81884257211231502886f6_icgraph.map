@@ -1,0 +1,4 @@
+<map id="MediumAIDifficulty::findWinningMove" name="MediumAIDifficulty::findWinningMove">
+<area shape="rect" id="node1" title="Finds a winning move for the given marker if available." alt="" coords="208,5,355,47"/>
+<area shape="rect" id="node2" href="$classMediumAIDifficulty.html#a1e2b191a320ee5315849174ca28330fd" title="Calculates the best move for the AI." alt="" coords="5,5,160,47"/>
+</map>

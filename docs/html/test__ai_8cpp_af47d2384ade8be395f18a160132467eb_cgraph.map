@@ -1,0 +1,8 @@
+<map id="TEST" name="TEST">
+<area shape="rect" id="node1" title="Test that Easy AI selects a valid empty cell on the board." alt="" coords="5,56,60,83"/>
+<area shape="rect" id="node2" href="$classBoard.html#ab60a1f5210c03763122808df3f36e928" title="Returns the cell value at the specified position." alt="" coords="121,5,236,32"/>
+<area shape="rect" id="node3" href="$classBoard.html#a73d6e27fbfbbf73db8c3a532f2d42171" title="Checks if the given position is valid on the board." alt="" coords="297,19,460,45"/>
+<area shape="rect" id="node4" href="$classAIPlayer.html#a2824bfae35a89f9369444e1ea7d627fc" title="Gets the next move from the AI (classic mode)." alt="" coords="108,107,249,133"/>
+<area shape="rect" id="node5" href="$classPlayer.html#a37e594fcc4855797805de48e13bdf9f0" title="Returns the player&#39;s marker." alt="" coords="310,81,447,108"/>
+<area shape="rect" id="node6" href="$classAIPlayer.html#ab2fa55f66bf5c19f86f95a838e034088" title="Indicates whether the AI player should exit the game." alt="" coords="303,132,455,159"/>
+</map>

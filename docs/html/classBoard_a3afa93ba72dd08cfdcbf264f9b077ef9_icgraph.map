@@ -1,0 +1,5 @@
+<map id="Board::isMoveValid" name="Board::isMoveValid">
+<area shape="rect" id="node1" title="Checks if a given move is valid." alt="" coords="228,31,375,57"/>
+<area shape="rect" id="node2" href="$classHumanPlayer.html#aa4652eef1646acfae11c34fd9d024d41" title="Gets the player&#39;s move in classic mode." alt="" coords="5,5,180,32"/>
+<area shape="rect" id="node3" href="$test__board_8cpp.html#a4a50edbf576ad576ba6e93c54f12aaa8" title="Test validation of moves on the board." alt="" coords="65,56,120,83"/>
+</map>

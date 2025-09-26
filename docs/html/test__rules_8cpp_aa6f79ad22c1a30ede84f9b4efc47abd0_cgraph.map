@@ -1,0 +1,8 @@
+<map id="TEST" name="TEST">
+<area shape="rect" id="node1" title="Test winning condition detection in rows, columns, and diagonals." alt="" coords="5,56,60,83"/>
+<area shape="rect" id="node2" href="$classGameRules.html#aac69246a5d92996b2c43676f795d58d9" title="Checks if the specified player has won." alt="" coords="108,5,276,32"/>
+<area shape="rect" id="node4" href="$classBoard.html#aaef819a8d1a10c35d9f802195802236e" title="Resets the board to an empty state." alt="" coords="141,56,243,83"/>
+<area shape="rect" id="node5" href="$classBoard.html#adcafb7f3909732ea0043c829b91e7e2d" title="Sets the cell value at the specified position." alt="" coords="135,107,249,133"/>
+<area shape="rect" id="node3" href="$classBoard.html#a16cdb8eaec4202fe7df18d6ca23a3f1d" title="Returns the entire grid as a 2D vector." alt="" coords="347,5,463,32"/>
+<area shape="rect" id="node6" href="$classBoard.html#a73d6e27fbfbbf73db8c3a532f2d42171" title="Checks if the given position is valid on the board." alt="" coords="324,107,487,133"/>
+</map>

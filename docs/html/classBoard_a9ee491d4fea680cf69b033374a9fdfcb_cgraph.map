@@ -1,0 +1,4 @@
+<map id="Board::Board" name="Board::Board">
+<area shape="rect" id="node1" title="Constructs a new empty board." alt="" coords="5,5,112,32"/>
+<area shape="rect" id="node2" href="$classBoard.html#aaef819a8d1a10c35d9f802195802236e" title="Resets the board to an empty state." alt="" coords="160,5,261,32"/>
+</map>

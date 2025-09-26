@@ -1,0 +1,4 @@
+<map id="GameRules::checkWin" name="GameRules::checkWin">
+<area shape="rect" id="node1" title="Checks if the specified player has won." alt="" coords="5,5,173,32"/>
+<area shape="rect" id="node2" href="$classBoard.html#a16cdb8eaec4202fe7df18d6ca23a3f1d" title="Returns the entire grid as a 2D vector." alt="" coords="221,5,337,32"/>
+</map>

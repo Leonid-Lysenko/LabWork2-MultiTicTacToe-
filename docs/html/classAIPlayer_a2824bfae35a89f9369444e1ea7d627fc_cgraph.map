@@ -1,0 +1,5 @@
+<map id="AIPlayer::getMove" name="AIPlayer::getMove">
+<area shape="rect" id="node1" title="Gets the next move from the AI (classic mode)." alt="" coords="5,31,147,57"/>
+<area shape="rect" id="node2" href="$classPlayer.html#a37e594fcc4855797805de48e13bdf9f0" title="Returns the player&#39;s marker." alt="" coords="202,5,339,32"/>
+<area shape="rect" id="node3" href="$classAIPlayer.html#ab2fa55f66bf5c19f86f95a838e034088" title="Indicates whether the AI player should exit the game." alt="" coords="195,56,347,83"/>
+</map>

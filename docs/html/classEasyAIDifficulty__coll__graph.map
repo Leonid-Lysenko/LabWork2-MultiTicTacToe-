@@ -1,0 +1,5 @@
+<map id="EasyAIDifficulty" name="EasyAIDifficulty">
+<area shape="rect" id="node1" title="Easy AI difficulty level that makes random moves." alt="" coords="93,95,218,121"/>
+<area shape="rect" id="node2" href="$classAIDifficulty.html" title="Interface for different AI difficulty levels." alt="" coords="5,5,100,32"/>
+<area shape="rect" id="node3" title=" " alt="" coords="124,5,392,32"/>
+</map>

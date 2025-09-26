@@ -1,0 +1,4 @@
+<map id="Validator::validate3DInput" name="Validator::validate3DInput">
+<area shape="rect" id="node1" title="Validates input for 3D mode." alt="" coords="240,5,432,32"/>
+<area shape="rect" id="node2" href="$classConsoleInput.html#af3ab73d76f72c45bb285b0f50a7988f1" title="Gets a 3D move input from the console." alt="" coords="5,5,192,32"/>
+</map>

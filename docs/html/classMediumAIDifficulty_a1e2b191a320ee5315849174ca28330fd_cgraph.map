@@ -1,0 +1,10 @@
+<map id="MediumAIDifficulty::calculateBestMove" name="MediumAIDifficulty::calculateBestMove">
+<area shape="rect" id="node1" title="Calculates the best move for the AI." alt="" coords="5,64,160,105"/>
+<area shape="rect" id="node2" href="$classEasyAIDifficulty.html#aae7ec21eaead255e0abf33fb93d6dbc3" title="Calculates a random valid move on the board." alt="" coords="208,5,399,47"/>
+<area shape="rect" id="node3" href="$classBoard.html#ab60a1f5210c03763122808df3f36e928" title="Returns the cell value at the specified position." alt="" coords="473,71,588,98"/>
+<area shape="rect" id="node5" href="$classMediumAIDifficulty.html#a46fede497d81884257211231502886f6" title="Finds a winning move for the given marker if available." alt="" coords="230,123,377,164"/>
+<area shape="rect" id="node4" href="$classBoard.html#a73d6e27fbfbbf73db8c3a532f2d42171" title="Checks if the given position is valid on the board." alt="" coords="663,97,825,123"/>
+<area shape="rect" id="node6" href="$classGameRules.html#aac69246a5d92996b2c43676f795d58d9" title="Checks if the specified player has won." alt="" coords="447,173,615,199"/>
+<area shape="rect" id="node8" href="$classBoard.html#adcafb7f3909732ea0043c829b91e7e2d" title="Sets the cell value at the specified position." alt="" coords="474,122,587,149"/>
+<area shape="rect" id="node7" href="$classBoard.html#a16cdb8eaec4202fe7df18d6ca23a3f1d" title="Returns the entire grid as a 2D vector." alt="" coords="686,173,802,199"/>
+</map>

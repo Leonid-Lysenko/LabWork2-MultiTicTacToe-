@@ -1,0 +1,8 @@
+<map id="MediumAIDifficulty::findWinningMove" name="MediumAIDifficulty::findWinningMove">
+<area shape="rect" id="node1" title="Finds a winning move for the given marker if available." alt="" coords="5,49,152,90"/>
+<area shape="rect" id="node2" href="$classGameRules.html#aac69246a5d92996b2c43676f795d58d9" title="Checks if the specified player has won." alt="" coords="200,5,368,32"/>
+<area shape="rect" id="node4" href="$classBoard.html#ab60a1f5210c03763122808df3f36e928" title="Returns the cell value at the specified position." alt="" coords="227,56,341,83"/>
+<area shape="rect" id="node6" href="$classBoard.html#adcafb7f3909732ea0043c829b91e7e2d" title="Sets the cell value at the specified position." alt="" coords="227,107,341,133"/>
+<area shape="rect" id="node3" href="$classBoard.html#a16cdb8eaec4202fe7df18d6ca23a3f1d" title="Returns the entire grid as a 2D vector." alt="" coords="439,5,555,32"/>
+<area shape="rect" id="node5" href="$classBoard.html#a73d6e27fbfbbf73db8c3a532f2d42171" title="Checks if the given position is valid on the board." alt="" coords="416,81,579,108"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="include/EasyAIDifficulty.h" name="include/EasyAIDifficulty.h">
+<area shape="rect" id="node1" title="Header file for the EasyAIDifficulty class." alt="" coords="431,5,617,32"/>
+<area shape="rect" id="node2" href="$EasyAIDifficulty_8cpp.html" title="Implementation of the EasyAIDifficulty class representing a simple AI." alt="" coords="5,80,179,107"/>
+<area shape="rect" id="node3" href="$main_8cpp.html" title="Main application file for Tic&#45;Tac&#45;Toe game." alt="" coords="203,80,309,107"/>
+<area shape="rect" id="node4" href="$MediumAIDifficulty_8cpp.html" title="Implementation of the MediumAIDifficulty class with basic strategic AI." alt="" coords="333,80,528,107"/>
+<area shape="rect" id="node5" href="$test__ai_8cpp.html" title="Unit tests for AI player behaviors across different difficulty levels." alt="" coords="553,80,682,107"/>
+<area shape="rect" id="node6" href="$test__game_8cpp.html" title="Unit tests for the Game class in classic mode." alt="" coords="707,80,861,107"/>
+<area shape="rect" id="node7" href="$test__integration_8cpp.html" title="Reliable integration tests with controlled AI behavior." alt="" coords="886,80,1074,107"/>
+</map>

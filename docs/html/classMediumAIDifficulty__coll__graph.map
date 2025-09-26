@@ -1,0 +1,5 @@
+<map id="MediumAIDifficulty" name="MediumAIDifficulty">
+<area shape="rect" id="node1" title="Medium AI difficulty level." alt="" coords="39,95,186,121"/>
+<area shape="rect" id="node2" href="$classAIDifficulty.html" title="Interface for different AI difficulty levels." alt="" coords="5,5,100,32"/>
+<area shape="rect" id="node3" href="$classGameRules.html" title="Class containing the game rules logic." alt="" coords="124,5,221,32"/>
+</map>

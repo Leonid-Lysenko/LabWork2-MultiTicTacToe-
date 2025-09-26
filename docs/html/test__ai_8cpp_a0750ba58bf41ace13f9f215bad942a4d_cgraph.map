@@ -1,0 +1,8 @@
+<map id="TEST" name="TEST">
+<area shape="rect" id="node1" title="Test that Medium AI blocks the opponent&#39;s immediate winning move." alt="" coords="5,81,60,108"/>
+<area shape="rect" id="node2" href="$classAIPlayer.html#a2824bfae35a89f9369444e1ea7d627fc" title="Gets the next move from the AI (classic mode)." alt="" coords="108,56,249,83"/>
+<area shape="rect" id="node5" href="$classBoard.html#adcafb7f3909732ea0043c829b91e7e2d" title="Sets the cell value at the specified position." alt="" coords="122,107,235,133"/>
+<area shape="rect" id="node3" href="$classPlayer.html#a37e594fcc4855797805de48e13bdf9f0" title="Returns the player&#39;s marker." alt="" coords="310,5,447,32"/>
+<area shape="rect" id="node4" href="$classAIPlayer.html#ab2fa55f66bf5c19f86f95a838e034088" title="Indicates whether the AI player should exit the game." alt="" coords="303,56,455,83"/>
+<area shape="rect" id="node6" href="$classBoard.html#a73d6e27fbfbbf73db8c3a532f2d42171" title="Checks if the given position is valid on the board." alt="" coords="297,107,460,133"/>
+</map>
